@@ -1,0 +1,41 @@
+
+
+*{
+    margin: 100;
+    padding: 100;
+    
+}
+
+html {
+    font-size: 30px;
+    font-family: 'sans-serif';
+    text-align: center; 
+}
+
+title{
+   text-align: center; 
+   color: blue;
+   font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    height: 40px
+
+}
+
+input[type=text]{
+    font-size: 30px;
+    background-color:rgb(249, 228, 203);
+}
+input[type=submit]{
+    font-size: 20px;
+}
+
+body{
+    background-color:rgb(235, 199, 155);
+    
+}
